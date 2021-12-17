@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Dec 2021 11:58:46 at https://prium.github.io/elixir/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prium.github.io/elixir/ -O1 "G:\Project-themes\bootstarp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/lib/flexslider/fonts/flexslider-icon.eot (from https://prium.github.io/elixir/assets/lib/flexslider/flexslider.css)
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/lib/flexslider/fonts/flexslider-icon.eot? (from https://prium.github.io/elixir/assets/lib/flexslider/flexslider.css)
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/lib/flexslider/fonts/flexslider-icon.woff (from https://prium.github.io/elixir/assets/lib/flexslider/flexslider.css)
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/lib/flexslider/fonts/flexslider-icon.ttf (from https://prium.github.io/elixir/assets/lib/flexslider/flexslider.css)
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/lib/flexslider/fonts/flexslider-icon.svg (from https://prium.github.io/elixir/assets/lib/flexslider/flexslider.css)
+11:59:44	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/images/video-1.png (from https://prium.github.io/elixir/index--header-selfhosted-video.html)
+11:59:54	Error: 	"Not Found" (404) at link https://prium.github.io/elixir/assets/videos/morning-routine/video.ogv (from https://prium.github.io/elixir/index--header-selfhosted-video.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 143 links scanned, 135 files written (28677383 bytes overall) [25178981 bytes received at 370279 bytes/sec], 5565996 bytes transferred using HTTP compression in 82 files, ratio 34%, 20.4 requests per connection
+(7 errors, 0 warnings, 0 messages)
